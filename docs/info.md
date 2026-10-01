@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The full adder circuit takes in three inputs and sums them to provide two outputs. The sum and carry.
 
 ## How to test
 
-Explain how to use your project
+The circuit can be tested by changing inputs 0-2. The outputs are confirmed using the full-adder truth table. 
 
 ## External hardware
 
